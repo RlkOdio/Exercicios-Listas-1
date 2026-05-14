@@ -18,6 +18,7 @@ Os arquivos estão organizados da seguinte forma:
 - `Controle de Preços`: Solicita ao usuário 5 valores decimais (preços), armazena-os em uma lista e utiliza as funções integradas max() e min() para identificar e exibir o maior e o menor valor digitado.
 - `Controle de Temperaturas`: Lê um número indeterminado de temperaturas em Celsius (com parada via palavra-chave "sair"), converte-as para Fahrenheit e calcula a média aritmética de ambas as escalas.
 - `Sistema de Lista de Compras`: Um gerenciador completo de produtos com interface via menu de opções.
+
 » *Funcionalidades:*
     - **Adicionar:** Permite inserção múltipla de itens.
     - **Pesquisar:** Verifica se um item já existe na lista.
@@ -26,6 +27,7 @@ Os arquivos estão organizados da seguinte forma:
     - **Listar:** Exibe todos os produtos cadastrados de forma organizada.
 - `Lista de Convidados`: Solicita o nome de 5 convidados, armazena-os em uma lista, percorre a lista para exibir cada nome individualmente e utiliza a função len() para mostrar o total de registros.
 - `Gerenciador de Tarefas`: Um sistema simples de entrada de dados contínua.
+
 » *Funcionalidade:* Utiliza um laço `while True` com uma condição de parada personalizada ("fim") para preencher uma lista de tarefas e exibi-las ao final.
 
 ## 🛠️ Como executar
